@@ -128,9 +128,9 @@ return (
     f'CERTIFICAMOS QUE &lt;b&gt;{nome}&lt;/b&gt; '
     f'PARTICIPOU DO &lt;b&gt;WORKSHOP DE ECONOMIA APLICADA&lt;/b&gt;, '
     f'REALIZADO EM &lt;b&gt;10 DE MAIO DE 2026&lt;/b&gt;, '
-    f'NA UNIVERSIDADE EXEMPLO, '
+    f'NA UNIVERSIDADE DE EXEMPLO, '
     f'COM CARGA HORÁRIA DE &lt;b&gt;4 HORAS&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;'
-    f'ARARAQUARA, &lt;b&gt;{data_extenso}&lt;/b&gt;.'
+    f'NÃO-ME-TOQUE (RS), &lt;b&gt;{data_extenso}&lt;/b&gt;.'
 )
 </code></pre>
 
