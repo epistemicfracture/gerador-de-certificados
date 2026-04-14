@@ -12,7 +12,8 @@ O processo é executado diretamente no <strong>Google Colab</strong>, sem necess
 <ul>
   <li><strong>Gerador_de_certificados_simples.ipynb</strong> → notebook principal</li>
   <li><strong>Lista.xlsx</strong> → planilha modelo com nomes e e-mails</li>
-  <li><strong>PDF do certificado</strong> → deve ser enviado no momento da execução no Colab</li>
+  <li><strong>Modelo do certificado</strong> → utilize um único arquivo modelo (template) do certificado, que deve ser enviado quando solicitado durante a execução do notebook no Google Colab.
+O repositório inclui um modelo de exemplo que pode ser usado para testes. Se desejar, você pode substituí-lo por um template próprio.</li>
 </ul>
 
 <h2>O que o script faz</h2>
